@@ -1,0 +1,12 @@
+{
+  "name": "bankui",
+  "displayName": "bankui",
+  "expo": {
+    "name": "bankui",
+    "slug": "bankui",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "file-manager",
+  "displayName": "file-manager",
+  "expo": {
+    "name": "file-manager",
+    "slug": "file-manager",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

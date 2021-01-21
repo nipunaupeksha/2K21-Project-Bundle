@@ -1,0 +1,12 @@
+{
+  "name": "floatingbutton",
+  "displayName": "floatingbutton",
+  "expo": {
+    "name": "floatingbutton",
+    "slug": "floatingbutton",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
