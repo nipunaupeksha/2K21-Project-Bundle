@@ -1,0 +1,12 @@
+{
+  "name": "profileui",
+  "displayName": "profileui",
+  "expo": {
+    "name": "profileui",
+    "slug": "profileui",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
