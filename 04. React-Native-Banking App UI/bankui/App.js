@@ -46,9 +46,9 @@ export default function App() {
   const TabStackScreens=()=>{
     return(
       <TabStack.Navigator tabBarOptions={tabBarOptions} screenOptions={screenOptions}>
-        <TabStack.Screen namae="Home" component={HomeScreen}/>
-        <TabStack.Screen namae="SendRequest" component={SendRequestScreen} options={{title:"Send & Request"}}/>
-        <TabStack.Screen namae="Card" component={CardScreen} options={{title:"My Cards"}}/>
+        <TabStack.Screen name="Home" component={HomeScreen}/>
+        <TabStack.Screen name="SendRequest" component={SendRequestScreen} options={{title:"Send & Request"}}/>
+        <TabStack.Screen name="Card" component={CardScreen} options={{title:"My Cards"}}/>
       </TabStack.Navigator>
     );
   };

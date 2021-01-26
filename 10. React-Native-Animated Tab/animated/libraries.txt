@@ -1,0 +1,3 @@
+yarn add d3-shape
+expo install react-native-svg
+yarn add @expo/vector-icons
