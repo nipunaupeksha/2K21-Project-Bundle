@@ -1,0 +1,5 @@
+yarn add styled-components
+yarn add @expo/vector-icons
+yarn add @react-native-community/slider
+expo install react-native-svg
+yarn add react-native-radial-gradient
