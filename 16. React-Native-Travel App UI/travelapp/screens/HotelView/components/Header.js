@@ -6,7 +6,7 @@ import {gs} from '../../../styles';
 export default function Header(){
     return( 
         <View>
-            <Image source={require('../../../assets/hotel.jpg')} style={{width:'100%', height:400}}/>
+            <Image source={require('../../../assets/hotel.jpg')} style={{width:'100%', height:300}}/>
             <View style={[styles.topButtons, gs.rowBetween]}>
                 <AntDesign name="close" size={24} color="#fff"/>
                 <View style={gs.rowCenter}>
