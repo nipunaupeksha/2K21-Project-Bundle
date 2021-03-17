@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1613579518 source:e:\projects\2021 project bundle\12. console donut\donut\main.c
+	<stdint.h>
+	<stdio.h>
+	<string.h>
+	<unistd.h>
+

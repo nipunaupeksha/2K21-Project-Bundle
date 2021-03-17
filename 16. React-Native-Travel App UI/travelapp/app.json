@@ -1,0 +1,12 @@
+{
+  "name": "travelapp",
+  "displayName": "travelapp",
+  "expo": {
+    "name": "travelapp",
+    "slug": "travelapp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
