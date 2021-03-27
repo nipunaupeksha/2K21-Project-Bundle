@@ -43,5 +43,23 @@ export const gs = StyleSheet.create( {
         borderBottomColor:"#4444",
         borderBottomWidth:1,
         marginVertical:24
+    },
+    absoluteFull:{
+        position: 'absolute',
+        top:0,
+        left:0,
+        width:'100%',
+        height:'100%'
+    },
+    smallText:{
+        fontSize:12,
+        fontWeight:'800',
+        color: colors.text
+    },
+    button:{
+        justifyContent:'center',
+        alignItems:'center',
+        backgroundColor:colors.pink,
+        borderRadius:100
     }
 });
