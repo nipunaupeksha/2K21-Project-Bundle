@@ -1,0 +1,14 @@
+You are given a list of contact names. Order it alphabetically. 
+
+Input foramt
+Sequence of contact names, each on a new line. Names are non-empty and consist only of 
+lowercase English letters.
+Total length of names is no more than 10000.
+
+Output foramt
+Output given names in alphabetical order each name on a new line
+
+Sample Input                        Sample Output
+turing                              dijkstra
+dijkstra                            knuth
+knuth                               turing
